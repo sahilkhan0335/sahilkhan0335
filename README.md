@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkhan0335" alt="sahilkhan0335" /></a> </p>
 
-- 🌱 I’m currently learning **BootStrap.**
+- 🌱 I’m currently learning **MERN Projects.**
 
 - 💬 Ask me about **react**
 
