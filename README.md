@@ -47,7 +47,7 @@ I’m passionate about crafting clean, efficient code and designing intuitive us
   <a href="https://linkedin.com/in/sahilkhan01" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="mailto:sahilkhan.dev01@gmail.com" target="_blank">
+  <a href="mailto:sahil233582@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
   <a href="https://github.com/sahilkhan0335" target="_blank">
