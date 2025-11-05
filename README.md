@@ -3,19 +3,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###   About Me
 
 I'm a **Full-Stack Developer** from India, passionate about building scalable and modern web applications using the **MERN Stack**, **Next.js**, and **TypeScript**.  
 I love crafting clean, efficient code and designing intuitive user interfaces that make technology feel simple and engaging.
 
-- 🔭 Currently working on **advanced Next.js + MERN projects**
-- 🌱 Learning **Prisma, Drizzle ORM, PostgreSQL & Cloud Integration**
-- 💬 Ask me about **React, Node.js, MongoDB, Express, Next.js, TypeScript, Java**
-- 🎯 Goal: Build impactful digital products with seamless UX & robust architecture
+-   Currently working on **advanced Next.js + MERN projects**
+-   Learning **Prisma, Drizzle ORM, PostgreSQL & Cloud Integration**
+-   Ask me about **React, Node.js, MongoDB, Express, Next.js, TypeScript, Java**
+-   Goal: Build impactful digital products with seamless UX & robust architecture
 
 ---
 
-### 🧰 Tech Stack
+###   Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,prisma,java,python,drizzle,bootstrap,tailwind,git,github,figma,postman,linux" />
@@ -23,7 +23,7 @@ I love crafting clean, efficient code and designing intuitive user interfaces th
 
 ---
 
-### 📈 GitHub Insights
+###   GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilkhan0335&show_icons=true&theme=transparent&hide_title=true&hide_border=true&count_private=true" height="160"/>
@@ -32,18 +32,18 @@ I love crafting clean, efficient code and designing intuitive user interfaces th
 
 ---
 
-### 🏆 Highlights
+###   Highlights
 
-- 🚀 Consistent contributor to open-source projects  
-- ⚡ Strong foundation in **frontend performance optimization**  
-- 🧩 Experienced with **REST APIs, Prisma & Drizzle ORM**  
-- 🗄️ Skilled in **MongoDB, PostgreSQL, and MySQL data modeling**  
-- 💡 Advocate for **clean UI + maintainable code architecture**  
-- ☕ Solid understanding of **Java programming & OOP principles**
+-   Consistent contributor to open-source projects  
+-   Strong foundation in **frontend performance optimization**  
+-   Experienced with **REST APIs, Prisma & Drizzle ORM**  
+-   Skilled in **MongoDB, PostgreSQL, and MySQL data modeling**  
+-   Advocate for **clean UI + maintainable code architecture**  
+-   Solid understanding of **Java programming & OOP principles**
 
 ---
 
-### 🌐 Connect
+###   Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sahilkhan01" target="_blank">
