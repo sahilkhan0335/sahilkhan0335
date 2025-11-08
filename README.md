@@ -8,9 +8,9 @@
 I'm a **Full-Stack Developer** from India, passionate about building scalable and modern web applications using the **MERN Stack**, **Next.js**, and **TypeScript**.  
 I love crafting clean, efficient code and designing intuitive user interfaces that make technology feel simple and engaging.
 
--   Currently working on **advanced Next.js + MERN projects**
+-   Currently working on **Advanced Next.js + MERN projects**
 -   Learning **Prisma, Drizzle ORM, PostgreSQL & Cloud Integration**
--   Ask me about **React, Node.js, MongoDB, Express, Next.js, TypeScript, Java**
+-   Ask me about **React, Node.js, MongoDB, Express, Next.js, TypeScript, Java, Python**
 -   Goal: Build impactful digital products with seamless UX & robust architecture
 
 ---
